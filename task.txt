@@ -1,0 +1,15 @@
+RESTFUL API (json) - 
+1. independent client server architecture
+2. respect all http methods
+
+//has to use POSTMAN for posting and patching requests to the API
+
+GET /users - get all users
+GET /users/1 - get user with id 1
+GET /users/2 - get user with id 2
+
+POST /users - create new user
+
+PATCH /users/1 - edit user with id 1
+
+DELETE /users/1 - delete user with id 1
