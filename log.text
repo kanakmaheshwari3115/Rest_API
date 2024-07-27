@@ -1,0 +1,8 @@
+1722104313648 : ::1 GET : /api/users/1001 
+1722104316752 : ::1 GET : /api/users/1002 
+1722104318961 : ::1 GET : /api/users/1003 
+1722104326604 : ::1 DELETE : /api/users/1002 
+1722104388901 : ::1 POST : /api/users/ 
+1722104429986 : ::1 PATCH : /api/users/1002 
+1722104457634 : ::1 PATCH : /api/users/1002 
+1722104481372 : ::1 DELETE : /api/users/1005 
